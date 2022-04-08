@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/NomadMovieWeb/static/css/main.31d6cfe0.css",
-    "main.js": "/NomadMovieWeb/static/js/main.21947857.js",
+    "main.css": "/NomadMovieWeb/static/css/main.6da44a5c.css",
+    "main.js": "/NomadMovieWeb/static/js/main.b1713495.js",
     "index.html": "/NomadMovieWeb/index.html",
-    "main.21947857.js.map": "/NomadMovieWeb/static/js/main.21947857.js.map"
+    "main.6da44a5c.css.map": "/NomadMovieWeb/static/css/main.6da44a5c.css.map",
+    "main.b1713495.js.map": "/NomadMovieWeb/static/js/main.b1713495.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.21947857.js"
+    "static/css/main.6da44a5c.css",
+    "static/js/main.b1713495.js"
   ]
 }
